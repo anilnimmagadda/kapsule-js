@@ -1,0 +1,28 @@
+{
+  "name": "kapsule-js",
+  "version": "0.3.7",
+  "description": "Lightweight PQ-ready encryption library for the browser and Node.js. Companion to Kapsule CLI.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "tsx tests/test.ts"
+  },
+  "keywords": [
+    "post-quantum",
+    "encryption",
+    "pqc",
+    "crypto",
+    "rsa-oaep",
+    "liboqs",
+    "typescript",
+    "kapsule"
+  ],
+  "author": "Anil Nimmagadda",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anilnimmagadda/kapsule-js.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.3"
+  }
+}
